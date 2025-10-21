@@ -1,5 +1,4 @@
 fastapi
 uvicorn
-selenium
 requests
 beautifulsoup4
